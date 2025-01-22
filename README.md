@@ -1,0 +1,2 @@
+# Linera
+Linera testnet
